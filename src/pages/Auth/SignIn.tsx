@@ -22,6 +22,12 @@ const SignIn = () => {
                   defaultValue="Mat khau"
                   placeholder=""
                 />
+                <InputFiled
+                  name="username"
+                  label="Email"
+                  defaultValue="Mat khau"
+                  placeholder=""
+                />
                 <Button
                   className="text-left flex-start" // Đặt chiều rộng của button là 100% và căn trái nội dung
                   variant="contained"
